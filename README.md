@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satoshi&weight=450&size=25&pause=1000&color=75F700&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+profile.;I'm+Sarvesh+Yadav.;I+am+a+Learner.;I+love+to+build+things." alt="Typing SVG"/></a>
-# Know About Me :
+## Know About Me :
 
 Namaste, my name is Sarvesh Yadav!
 
-# My Skills :
+## My Skills :
 
 | Domain | Skills |
 | ----------- | ----------- |
@@ -14,7 +14,17 @@ Namaste, my name is Sarvesh Yadav!
 | Version Control | ![GitHub](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 
 
-# GitHub Stats :
+## GitHub Stats :
 
 | ![](https://github-readme-stats.vercel.app/api?username=sarveshpyadav&theme=radical&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshpyadav&theme=radical&hide_border=true) |
 | ----------- | ----------- |
+
+[![](https://visitcount.itsvg.in/api?id=sarveshpyadav&icon=8&color=2)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
