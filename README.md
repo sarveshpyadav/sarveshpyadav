@@ -2,9 +2,9 @@
 
 ## Know About Me :
 
-Hi there! My name is Sarvesh. I am a student and a creative learner with a passion for making software development more approachable, creating technology to elevate people and personal development. Some technologies I enjoy working with include HTML, CSS and JavaScript. 
+- Hi there! My name is Sarvesh. I am a student and a creative learner with a passion for making software development more approachable, creating technology to elevate people and personal development. Some technologies I enjoy working with include HTML, CSS and JavaScript. 
 
-Connecting with like-minded individuals is something I truly enjoy. If you're interested in discussing Blockchain & Machine Learning, sharing ideas, or exploring potential opportunities, I would love to connect with you.
+- Connecting with like-minded individuals is something I truly enjoy. If you're interested in discussing Blockchain & Machine Learning, sharing ideas, or exploring potential opportunities, I would love to connect with you.
 
 ## My Skills :
 
