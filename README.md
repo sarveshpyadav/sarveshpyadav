@@ -11,7 +11,7 @@ Connecting with like-minded individuals is something I truly enjoy. If you're in
 Feel free to reach out to me.
 - LinkedIn [@sarveshpyadav](https://www.linkedin.com/in/sarveshpyadav)
 - Twitter [@sarveshpyadav](https://twitter.com/sarveshpyadav)
-- Email [@sarveshpyadav](8sarveshyadav@gmail.com)
+- Email [@sarveshpyadav](mailto:8sarveshyadav@gmail.com)
 
 ## My Skills :
 
