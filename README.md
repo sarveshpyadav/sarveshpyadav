@@ -2,9 +2,16 @@
 
 ## Know About Me :
 
-- Hi there! My name is Sarvesh. I am a student and a creative learner with a passion for making software development more approachable, creating technology to elevate people and personal development. Some technologies I enjoy working with include HTML, CSS and JavaScript. 
+Hi there! My name is Sarvesh. I am a student and a creative learner with a passion for making software development more approachable, creating technology to elevate people and personal development. Some technologies I enjoy working with include HTML, CSS and JavaScript. I love knowing and building new things.
 
-- Connecting with like-minded individuals is something I truly enjoy. If you're interested in discussing Blockchain & Machine Learning, sharing ideas, or exploring potential opportunities, I would love to connect with you.
+Connecting with like-minded individuals is something I truly enjoy. If you're interested in discussing Blockchain & Machine Learning, sharing ideas, or exploring potential opportunities, I would love to connect with you. Ask me anything, I'm always glad to help you out!
+
+## Get In Touch :
+
+Feel free to reach out to me.
+- LinkedIn [@sarveshpyadav](https://www.linkedin.com/in/sarveshpyadav)
+- Twitter [@sarveshpyadav](https://twitter.com/sarveshpyadav)
+- Email [@sarveshpyadav](8sarveshyadav@gmail.com)
 
 ## My Skills :
 
@@ -21,6 +28,6 @@
 | ![](https://github-readme-stats.vercel.app/api?username=sarveshpyadav&theme=radical&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshpyadav&theme=radical&hide_border=true) |
 | ----------- | ----------- |
 
-Thanks for dropping by, and see you!
+---
 
-![Visitor Count](https://profile-counter.glitch.me/{sarveshpyadav}/count.svg)
+Thanks for dropping by, and see you! 👋🏻
