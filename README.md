@@ -25,7 +25,7 @@ Feel free to reach out to me.
 
 ## GitHub Stats :
 
-| ![](https://github-readme-stats.vercel.app/api?username=sarveshpyadav&theme=radical&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshpyadav&theme=radical&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=sarveshpyadav&theme=merko&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshpyadav&theme=merko&hide_border=false) |
 | ----------- | ----------- |
 
 ---
