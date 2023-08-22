@@ -2,9 +2,9 @@
 
 ## Know About Me :
 
-Hi there! My name is Sarvesh. I am a student and a creative learner with a passion for making software development more approachable, creating technology to elevate people and personal development. Some technologies I enjoy working with include HTML, CSS and JavaScript. I love knowing and building new things.
+Greetings, Tech Enthusiasts! I'm Sarvesh Yadav, a dedicated computer science student enrolled at Government Polytechnic, Mumbai. Some technologies I enjoy working with include HTML, CSS and JavaScript. I've also got a solid grip on programming languages like C, C++, and Java. Oh, and guess what? I'm currently learning to walk in the ML/DL realm without falling on my bottom.
 
-Connecting with like-minded individuals is something I truly enjoy. If you're interested in discussing Blockchain & Machine Learning, sharing ideas, or exploring potential opportunities, I would love to connect with you. Ask me anything, I'm always glad to help you out!
+Connecting with like-minded individuals is my jam. If you share my excitement for Blockchain & Web3, enjoy bouncing around ideas, or are keen on uncovering exciting opportunities, I would love to connect with you. I'm totally up for diving into captivating and innovative projects together. Ask me anything, I'm always glad to help you out!
 
 ## Get In Touch :
 
