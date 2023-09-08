@@ -2,7 +2,7 @@
 
 ## Know About Me :
 
-Greetings, Tech Enthusiasts! I'm Sarvesh Yadav, a dedicated computer science student enrolled at Government Polytechnic, Mumbai. Some technologies I enjoy working with include HTML, CSS and JavaScript. I've also got a solid grip on programming languages like C, C++, and Java. Oh, and guess what? I'm currently learning to walk in the ML/DL realm without falling on my bottom.
+Greetings, Tech Enthusiasts! I'm Sarvesh Yadav, a dedicated computer science student and a creative learner. Some technologies I enjoy working with include HTML, CSS and JavaScript. I've also got a solid grip on programming languages like C, C++, and Java. Oh, and guess what? I'm currently learning to walk in the ML/DL realm without falling on my bottom.
 
 Connecting with like-minded individuals is my jam. If you share my excitement for Blockchain & Web3, enjoy bouncing around ideas, or are keen on uncovering exciting opportunities, I would love to connect with you. I'm totally up for diving into captivating and innovative projects together. Ask me anything, I'm always glad to help you out!
 
@@ -25,8 +25,7 @@ Feel free to reach out to me.
 
 ## GitHub Stats :
 
-| ![](https://github-readme-stats.vercel.app/api?username=sarveshpyadav&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshpyadav&theme=highcontrast&hide_border=true) |
-| ----------- | ----------- |
+![](https://github-readme-stats.vercel.app/api?username=sarveshpyadav&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshpyadav&theme=highcontrast&hide_border=true)
 
 ---
 
