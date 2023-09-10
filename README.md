@@ -10,7 +10,7 @@ Connecting with like-minded individuals is my jam. If you share my excitement fo
 
 Feel free to reach out to me.
 - LinkedIn [@sarveshpyadav](https://www.linkedin.com/in/sarveshpyadav)
-- Twitter [@sarveshpyadav](https://twitter.com/sarveshpyadav)
+- X [@sarveshpyadav](https://twitter.com/sarveshpyadav)
 - Email [@sarveshpyadav](mailto:8sarveshyadav@gmail.com)
 
 ## My Skills :
