@@ -25,4 +25,11 @@ The best way to reach me is to email me at [8sarveshyadav@gmail.com](mailto:8sar
 | Version Control | ![My Skills](https://skillicons.dev/icons?i=git,github) |
 | Platform/IDEs | ![My Skills](https://skillicons.dev/icons?i=gcp,androidstudio,eclipse,idea,visualstudio,vscode&perline=3) |
 
-Thanks for dropping by, and see you! 👋🏻
+## GitHub Stats :
+
+| ![](https://github-readme-stats.vercel.app/api?username=sarveshpyadav&theme=merko&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sarveshpyadav&theme=merko&hide_border=true) |
+| ----------- | ----------- |
+
+---
+
+Thanks for dropping by, and see you! 👋
