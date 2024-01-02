@@ -12,15 +12,15 @@ The best way to reach me is to email me at [8sarveshyadav@gmail.com](mailto:8sar
 
 | Domain | Skills |
 | ----------- | ----------- |
-| Language | ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,r) |
-| Development | ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,markdown) |
-| Frameworks | ![My Skills](https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap) |
+| Language | ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,r&perline=3) |
+| Development | ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,markdown&perline=3) |
+| Frameworks | ![My Skills](https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap&perline=3) |
 | Database | ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb) |
 | Backend | ![My Skills](https://skillicons.dev/icons?i=nodejs) |
 | Web Hoisting | ![My Skills](https://skillicons.dev/icons?i=vercel,netlify,replit) |
 | CI/CD | ![My Skills](https://skillicons.dev/icons?i=githubactions) |
 | Visual Tools | ![My Skills](https://skillicons.dev/icons?i=blender,vite) |
 | Version Control | ![My Skills](https://skillicons.dev/icons?i=git,github) |
-| IDE | ![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,gcp,idea,visualstudio,vscode) |
+| IDE | ![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,gcp,idea,visualstudio,vscode&perline=3) |
 
 Thanks for dropping by, and see you! 👋🏻
