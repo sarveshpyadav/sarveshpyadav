@@ -1,17 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satoshi&weight=450&size=25&pause=1500&color=75F700&center=true&vCenter=true&width=435&lines=Hey%2C+welcome+to+my+profile." alt="Typing SVG"/></a>
-
 ## Know About Me :
 
-Greetings, Tech Enthusiasts! I'm Sarvesh Yadav, a dedicated computer science student and a creative learner. Some technologies I enjoy working with include HTML, CSS and JavaScript. I've also got a solid grip on programming languages like C, C++, and Java. Oh, and guess what? I'm currently learning to walk in the ML/DL realm without falling on my bottom.
+Greetings, Tech Enthusiasts! I'm Sarvesh, a dedicated computer science student and a creative lifelong learner. I'm a Frontend Developer with a passion for blending creativity with functionality. I love to build web applications that are beautiful and user-friendly. I believe in simplicity and minimalism and I enjoy bringing that ethos into every project I touch. I like solving problems with code, and in my free time, I enjoy working on personal projects and experimenting with new tools and languages. Some technologies I find compelling to work with include JavaScript, TypeScript, Angular and React. I've also got a solid grip on programming languages like C, C++, Java and Python. Oh, and guess what? I'm currently learning to walk in the ML/DL realm without falling on my bottom through Rust. I love contributing in open-source projects and collaborating with communities. I'm always looking for new ways to grow and improve my skills.
 
 Connecting with like-minded individuals is my jam. If you share my excitement for Blockchain & Web3, enjoy bouncing around ideas, or are keen on uncovering exciting opportunities, I would love to connect with you. I'm totally up for diving into captivating and innovative projects together. Ask me anything, I'm always glad to help you out!
 
 ## Get In Touch :
 
-Feel free to reach out to me.
-- LinkedIn [@sarveshpyadav](https://www.linkedin.com/in/sarveshpyadav)
-- X [@sarveshpyadav](https://twitter.com/sarveshpyadav)
-- Email [@sarveshpyadav](mailto:8sarveshyadav@gmail.com)
+The best way to reach me is to email me at [8sarveshyadav@gmail.com](mailto:8sarveshyadav@gmail.com) (personal). I try to respond within 4-5 hours of receiving a message. Alternatively, you could connect with me on social media:
 
 ## My Skills :
 
