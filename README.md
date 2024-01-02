@@ -23,6 +23,6 @@ The best way to reach me is to email me at [8sarveshyadav@gmail.com](mailto:8sar
 | CI/CD | ![My Skills](https://skillicons.dev/icons?i=githubactions) |
 | Visual Tools | ![My Skills](https://skillicons.dev/icons?i=blender,vite) |
 | Version Control | ![My Skills](https://skillicons.dev/icons?i=git,github) |
-| IDE | ![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,gcp,idea,visualstudio,vscode&perline=3) |
+| Platform/IDEs | ![My Skills](https://skillicons.dev/icons?i=gcp,androidstudio,eclipse,idea,visualstudio,vscode&perline=3) |
 
 Thanks for dropping by, and see you! 👋🏻
