@@ -7,6 +7,8 @@ Connecting with like-minded individuals is my jam. If you share my excitement fo
 ## Get In Touch :
 
 The best way to reach me is to email me at [8sarveshyadav@gmail.com](mailto:8sarveshyadav@gmail.com) (personal). I try to respond within 4-5 hours of receiving a message. Alternatively, you could connect with me on social media:
+- LinkedIn [@sarveshpyadav](https://www.linkedin.com/in/sarveshpyadav)
+- X [@sarveshpyadav](https://x.com/sarveshpyadav)
 
 ## My Skills :
 
