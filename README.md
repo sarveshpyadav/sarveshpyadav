@@ -14,7 +14,7 @@ The best way to reach me is to email me at [8sarveshyadav@gmail.com](mailto:8sar
 
 | Domain | Skills |
 | ----------- | ----------- |
-| Language | ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,r&perline=3) |
+| Programming | ![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,r&perline=3) |
 | Development | ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,markdown&perline=3) |
 | Frameworks | ![My Skills](https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap&perline=3) |
 | Database | ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb) |
